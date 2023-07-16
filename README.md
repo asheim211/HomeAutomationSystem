@@ -27,11 +27,11 @@ Software Dependencies:
 
 Hardware Dependencies:
 
-Arduino
-ESP32-CAM
-Solenoid lock
-Connecting Wires
-DC Power Supply
+1.Arduino
+2.ESP32-CAM
+3.Solenoid lock
+4.Connecting Wires
+5.DC Power Supply
 
 Installation for face_recognition:
 
