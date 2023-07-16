@@ -4,6 +4,7 @@ Objective:
 The main objective of this project is to design and implement a smart door locking system using facial recognition technology for access control. Specifically, the project aims to:
 
 Develop a camera module that can capture high-quality facial images for facial recognition.
+
 Implement a facial recognition algorithm that can accurately recognize authorized individuals and deny access to unauthorized individuals.
 Design and implement a microcontroller unit that can process the facial images and control the locking mechanism of the door.
 Integrate the facial recognition system with the locking mechanism to provide a secure and convenient access control solution.
